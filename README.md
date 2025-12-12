@@ -66,7 +66,3 @@ To set up the `Discord-V14-Advanced-Infrastructure` framework, follow these step
 
 ### Licence
 This project is licensed under the [MIT License](https://github.com/erxsdev/Discord-V14-Advanced-Infrastructure/blob/main/LICENSE).
-
-### Contact
-- Discord: erxsdev
-- Email: erxsdev@gmail.com
